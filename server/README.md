@@ -24,7 +24,6 @@ This is a Node.js server application using TypeScript. It provides a backend API
 
 - [Node.js](https://nodejs.org/) (v18 or later)
 - [MySQL](https://www.mysql.com/) (or compatible database)
-- [Docker](https://www.docker.com/) (optional, for containerization)
 
 ### Installation
 
